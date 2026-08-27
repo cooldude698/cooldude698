@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm Aman Jain
+# Hi 👋, I'm Aman Jain
 
 ### Passionate Computer Science student | Developer | Open Source Contributor
 
@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain?igsi=MzlnM2c4bjd6M2E5)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oi6jw2pij-aman-jain-s-projects.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cooldude698&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -34,6 +36,27 @@ I'm a Computer Science student at **Jain University, Bangalore**, deeply focused
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooldude698&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aman's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooldude698&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cooldude698&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cooldude698&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
