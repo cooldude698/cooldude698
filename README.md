@@ -4,8 +4,10 @@
 
 ### Passionate Computer Science student | Developer | Open Source Contributor
 
-[![Sponsor](https://img.shields.io/badge/SPONSOR-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/cooldude698)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj2194078@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain?igsi=MzlnM2c4bjd6M2E5)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oi6jw2pij-aman-jain-s-projects.vercel.app/)
 
 </div>
 
@@ -32,18 +34,6 @@ I'm a Computer Science student at **Jain University, Bangalore**, deeply focused
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-### 💖 Support My Open Source Work
-
-If you find my projects or open-source contributions helpful, consider supporting me! Your sponsorship helps me dedicate more time to maintaining projects, building new tools, and creating content for the developer community.
-
-<div align="center">
-  <a href="https://github.com/sponsors/cooldude698">
-    <img src="https://img.shields.io/badge/💖_SPONSOR_ME_ON_GITHUB-ea4aaa?style=for-the-badge" alt="Sponsor on GitHub" />
-  </a>
 </div>
 
 ---
@@ -121,15 +111,6 @@ If you find my projects or open-source contributions helpful, consider supportin
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cooldude698&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak Stats" /><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cooldude698&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
-</div>
 
 ---
 
