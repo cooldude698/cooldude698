@@ -1,23 +1,47 @@
+<!-- Header Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Jain&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white&desc=CS%20Student%20%40%20Jain%20University%20%7C%20Developer%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
 <div align="center">
 
-# Hi 👋, I'm Aman Jain
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aman+Jain+👋;Computer+Science+Student+%40+Jain+University;Full+Stack+Developer+🚀;Open+Source+Contributor+🌱;AI+%2F+ML+Enthusiast+🧠;Cybersecurity+Explorer+🛡️;Always+Learning%2C+Always+Building+⚡)](https://git.io/typing-svg)
 
-### Passionate Computer Science student | Developer | Open Source Contributor
+![Profile Views](https://komarev.com/ghpvc/?username=cooldude698&label=Profile+Views&color=6C63FF&style=for-the-badge)
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj2194078@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain?igsi=MzlnM2c4bjd6M2E5)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oi6jw2pij-aman-jain-s-projects.vercel.app/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=cooldude698&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science student at **Jain University, Bangalore**, deeply focused on learning, creating impactful projects, and contributing to open-source development. I love building tools that solve real-world problems and exploring the depths of cybersecurity, networking, AI agentic automation, and cloud architectures.
+```python
+class AmanJain:
+    def __init__(self):
+        self.name        = "Aman Jain"
+        self.username    = "cooldude698"
+        self.university  = "Jain University, Bangalore"
+        self.degree      = "B.Tech Computer Science"
+        self.email       = "aj2194078@gmail.com"
+        self.role        = ["Full Stack Developer", "Open Source Contributor",
+                            "AI/ML Enthusiast", "Cybersecurity Explorer"]
+        self.languages   = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+        self.currently   = {
+            "working_on" : "Advanced MLOps/RAG AI Agentic Automation",
+            "learning"   : "Cloud Architectures & DevOps",
+            "fun_fact"   : "I Love Tech and Tech Loves me ☕"
+        }
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something great together 🚀")
+
+me = AmanJain()
+me.say_hi()
+```
 
 - 🔭 **Currently working on:** Advanced MLOps/RAG AI Agentic Automation & Open Source Tools
 - 🌱 **Currently learning:** Advanced Cloud Architectures & DevOps
@@ -28,122 +52,105 @@ I'm a Computer Science student at **Jain University, Bangalore**, deeply focused
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cooldude698/cooldude698/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooldude698&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aman's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooldude698&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=cooldude698&theme=github-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats-154v.vercel.app/api?username=cooldude698&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&count_private=true&icon_color=58a6ff" alt="GitHub Stats"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cooldude698&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
-</div>
 
----
+  <img width="49%" src="https://github-readme-stats-154v.vercel.app/api/top-langs/?username=cooldude698&layout=compact&theme=github_dark&hide_border=true&border_radius=6&langs_count=6" alt="Top Languages"/>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cooldude698&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-#### 🛠️ Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-</p>
+### 🛠️ Languages
 
-#### 🌐 Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,c,php,ruby,swift&perline=9" alt="Language Icons"/>
+</div>
 
-#### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-</p>
+### 🌐 Frontend & UI
 
-#### 🛡️ Cybersecurity & Networking
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-1B6AC6?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Spiderfoot-333333?style=for-the-badge&logo=python&logoColor=white" alt="Spiderfoot" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,figma,threejs&perline=9" alt="Frontend Icons"/>
+</div>
 
-#### 🧠 AI / ML / Data
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/LM_Studio-18181B?style=for-the-badge&logo=openai&logoColor=white" alt="LM Studio" />
-</p>
+### ⚙️ Backend & Databases
 
-#### 🔧 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,postgresql,mysql,sqlite,redis,express,flask&perline=9" alt="Backend Icons"/>
+</div>
+
+### 🔧 Tools & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,vercel,gcp,linux,bash,vscode&perline=9" alt="DevOps Icons"/>
+</div>
+
+### 🧠 AI / ML / Data
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda,grafana&perline=9" alt="AI Icons"/>
+</div>
+
+### 🛡️ Cybersecurity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-1B6AC6?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+## 🎯 What I'm Focused On
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain?igsi=MzlnM2c4bjd6M2E5)
+| 🚀 Building | 📚 Learning | 🤝 Open To |
+|:---:|:---:|:---:|
+| AI Agentic Systems | Cloud & DevOps | Open Source Collabs |
+| Full Stack Web Apps | System Design | Hackathons |
+| Automation Tools | Blockchain/Web3 | Freelance Projects |
+| CLI & Dev Tools | Cybersecurity | Tech Talks |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-jain-4a3543354)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amannnn_jain)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oi6jw2pij-aman-jain-s-projects.vercel.app/)
-[![Email Me](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj2194078@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj2194078@gmail.com)
 
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
