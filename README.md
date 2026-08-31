@@ -68,14 +68,9 @@ me.say_hi()
 
 <div align="center">
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=cooldude698&theme=github-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
-  <img width="49%" src="https://github-readme-stats-154v.vercel.app/api?username=cooldude698&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&count_private=true&icon_color=58a6ff" alt="GitHub Stats"/>
-
-</div>
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats-154v.vercel.app/api/top-langs/?username=cooldude698&layout=compact&theme=github_dark&hide_border=true&border_radius=6&langs_count=6" alt="Top Languages"/>
+  <img width="32%" src="https://streak-stats.demolab.com?user=cooldude698&theme=github-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img width="32%" src="https://github-readme-stats-154v.vercel.app/api?username=cooldude698&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&count_private=true&icon_color=58a6ff" alt="GitHub Stats"/>
+  <img width="32%" src="https://github-readme-stats-154v.vercel.app/api/top-langs/?username=cooldude698&layout=compact&theme=github_dark&hide_border=true&border_radius=6&langs_count=6" alt="Top Languages"/>
 
 </div>
 
